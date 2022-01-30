@@ -1,0 +1,45 @@
+.button {
+    border-color: rgb(41, 96, 155);
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+#duplicateField {
+    font-size: 1.6em;
+    text-align: center;
+    margin: 0;
+    width: 200px;
+    height: 20px;
+    padding: 15px;
+    position: absolute;
+    left: 44%;
+}
+
+.button, #duplicateField {
+    background-color: rgb(206, 236, 172);
+    color: rgb(41, 96, 155);
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#inputForm {
+    display: block;
+    text-align: center;
+}
+
+.text {
+    color: rgb(56, 37, 37);
+    font-size: 14px;
+    font-weight: 700;
+    background-color: cyan;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    margin: 0; 
+}
+
+#backbutton {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}

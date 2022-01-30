@@ -1,0 +1,13 @@
+p {
+    margin: 10px;
+    background-color: cyan;
+    padding: 10px;
+    text-align: center;
+    color: rgb(56, 37, 37);
+}
+
+#backbutton {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
